@@ -1,0 +1,14 @@
+	react navigation (Tab ve stack) +
+	react-native-toast-message +
+	react-native-paper +
+	moment +
+	formik +
+    yup +
+	expo-splash-screen +
+	expo-secure-store +
+	axios +
+    react-native-mask-text +
+    react-native-paper-dates +
+
+
+https://carrental-v3-backend.herokuapp.com/swagger-ui/index.html#/
