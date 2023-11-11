@@ -55,7 +55,7 @@ This two-way communication enables real-time updates and data synchronization, p
 
 - React Native Paper
 
-- Formik and Yup Validation
+- Formik and Yup
 
 - JSON
 
