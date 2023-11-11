@@ -59,6 +59,8 @@ This two-way communication enables real-time updates and data synchronization, p
 
 - JSON
 
+- Axios
+
 # Snapshots
 
 - [Search Car](https://github.com/tsonverdi/speedyliRentalApp/assets/92997075/1a392863-a855-4fed-9d6f-f73adec2d5f3)
